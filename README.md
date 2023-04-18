@@ -1,4 +1,4 @@
-# Statistically Significant Squad's Datathon Submission
+# Statistically Significant Squad's Datathon Submission (2023)
 
 ### Problem Statement
 
@@ -12,4 +12,4 @@ To create our model, we took a survival analysis approach and utilized a basic K
 
 ### You can find more on our presentation [here](https://docs.google.com/presentation/d/1YLJwrh1emreDT9Y2ZghzMV_a2FkhC2q668_Oh5PBX_c/edit?usp=sharing).
 
-This is the Statistically Significant Squad's Datathon 2023 submission!!!
+
